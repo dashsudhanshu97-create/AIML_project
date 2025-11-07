@@ -4,7 +4,7 @@ A CNN-based model that classifies apples as Fresh 🍏 or Rotten 🍎 using Tens
 
 ⚙️ Setup & Run
 🐧 Ubuntu
-cd ~/fruit_freshness_project
+
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
