@@ -1,0 +1,30 @@
+# ===============================
+# Python / AI Project Git Ignore
+# ===============================
+
+# Virtual environment
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model and dataset (if large)
+*.h5
+fruit_freshness_dataset/
+
+# Logs / temp files
+*.log
+*.tmp
+*.swp
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
